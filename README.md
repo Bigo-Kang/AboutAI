@@ -1,1 +1,5 @@
 # AboutAI
+
+Pytorch
+
+Tensorflow
