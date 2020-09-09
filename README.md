@@ -5,3 +5,4 @@ Pytorch
 
 Tensorflow
 - Using Pycharm
+- PPT : professor. 권오흠. PKNU
