@@ -1,5 +1,8 @@
 # AboutAI
 
+C++
+- programming elements of CNN by using CPP
+
 Pytorch
 - Using jupyter notebook
 
