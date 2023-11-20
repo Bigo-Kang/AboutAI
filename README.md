@@ -6,6 +6,7 @@ C++
 COASTDATA
 - 연안 관련 빅데이터 활용
 - 엘리뇨 라니냐 월별 평균 값 예측 [시계열 데이터]
+- 월파 모니터링 영상에서 월파 영역 검출
 
 Pytorch
 - Using jupyter notebook
